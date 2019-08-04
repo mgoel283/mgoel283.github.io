@@ -1,0 +1,26 @@
+.secTitle {
+	font-weight: bold;
+	font-size: 1.65em;
+	/*text-align: left; */
+}
+
+.compTitle {
+	font-weight: 200;
+	font-size: 1.25em;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.titleText {
+	font-size: 1.05em;
+	font-style: italic;
+}
+
+.contentText {
+	color: #cccccc;
+}
+
+.dateText {
+	font-size: 1.05em;
+	font-style: italic;
+}
